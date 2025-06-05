@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'auctions',  # Custom app for auctions
+    'authentication',  # Custom app for user authentication
 ]
 
 MIDDLEWARE = [
